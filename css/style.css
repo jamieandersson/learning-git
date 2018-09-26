@@ -7,3 +7,9 @@ img {
    border: 3px;
    border-color: blue;
 }
+
+.box {
+   background-color: white;
+   padding: 4em;
+   margin: 2em auto;
+}
