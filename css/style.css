@@ -1,4 +1,9 @@
 body {
    margin: 0;
-   background-color: sandybrown;
+}
+
+img {
+   max-width: 30vw;
+   border: 3px;
+   border-color: blue;
 }
