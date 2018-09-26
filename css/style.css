@@ -11,4 +11,5 @@ img {
 .box {
    background-color: white;
    padding: 4em;
+   margin: 2em auto;
 }
